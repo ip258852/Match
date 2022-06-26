@@ -1,3 +1,7 @@
+## Introduction ##
+使用SpringBoot作為框架,提供新增訂單HttpApi,<br>
+新增成功後,透過排程媒合交易訂單
+
 ## Schema ##
 * itemId, 必填, 股票代號,
 * price, 必填, 交易金額, 需大於0
